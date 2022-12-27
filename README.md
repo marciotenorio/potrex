@@ -1,6 +1,12 @@
 # Potrex 
 
-Linguagem desenvolvida para o curso de Engenharia-de-Linguagens do curso de Engenharia de Software da UFRN no semestre 2022.2.
+Linguagem desenvolvida para a disciplina de Engenharia de Linguagens ministrado pelo Prof. Dr. Umberto Souza da Costa no curso BTI/IMD da UFRN no semestre 2022.2.
+
+### Feito por:
+[@marciotenorio](https://github.com/marciotenorio)
+[@karinepcdc](https://github.com/karinepcdc)
+[@itstherall](https://github.com/itstherall)
+[@jimmylaskera](https://github.com/jimmylaskera)
 
 (1) Introdução: visão geral do projeto
 
